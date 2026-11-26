@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b58,100:1a7f37&height=200&section=header&text=Neil%20Jadhav&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20%7C%20Map%20My%20Crop%20%E2%80%A2%20Hardcastle%20GIS&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b58,100:1a7f37&height=200&section=header&text=Neil%20Jadhav&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Founder%20and%20CEO%20-%20Map%20My%20Crop%20-%20Hardcastle%20GIS&descAlignY=60&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1A7F37&center=true&vCenter=true&width=700&lines=Building+satellite+AI+for+agriculture+%F0%9F%9B%B0%EF%B8%8F%F0%9F%8C%BE;Founder+%26+CEO+%40+Map+My+Crop;GIS+%E2%80%A2+Remote+Sensing+%E2%80%A2+Machine+Learning;Like+Coding+%3C+Love+Management" alt="Typing SVG" /></a>
 
@@ -55,27 +55,16 @@
 <div align="center">
 
 <a href="https://github.com/iswapnilj">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iswapnilj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=1a7f37&icon_color=1a7f37" alt="GitHub stats" />
-</a>
-<a href="https://github.com/iswapnilj">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iswapnilj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a7f37&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iswapnilj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a7f37&icon_color=1a7f37&rank_icon=github" alt="GitHub stats" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/iswapnilj">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iswapnilj&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1a7f37&fire=1a7f37&currStreakLabel=1a7f37" alt="GitHub streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=iswapnilj&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iswapnilj&theme=github-compact&hide_border=true&bg_color=0d1117&color=1a7f37&line=1a7f37&point=ffffff&area=true" width="100%" alt="Contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iswapnilj/iswapnilj/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iswapnilj/iswapnilj/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/iswapnilj/iswapnilj/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
