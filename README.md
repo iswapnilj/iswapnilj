@@ -8,6 +8,7 @@
 
 [![Map My Crop](https://img.shields.io/badge/Map%20My%20Crop-mapmycrop.com-1a7f37?style=for-the-badge&logo=leaflet&logoColor=white)](https://mapmycrop.com)
 [![Hardcastle GIS](https://img.shields.io/badge/Hardcastle%20GIS-hardcastlegis.com-0f9b58?style=for-the-badge&logo=googleearth&logoColor=white)](https://hardcastlegis.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neil%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-neil-jadhav/)
 [![X](https://img.shields.io/badge/@enrik431-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/enrik431)
 
 ![Profile views](https://komarev.com/ghpvc/?username=iswapnilj&color=1a7f37&style=for-the-badge&label=PROFILE+VIEWS)
@@ -19,9 +20,9 @@
 
 ## 🚀 About me
 
-- 🌾 **Founder & CEO of [Map My Crop](https://mapmycrop.com)** — satellite AI for crop monitoring, farm boundary detection and crop-type classification at scale.
+- 🌾 **Founder & CEO of [Map My Crop](https://mapmycrop.com)** — satellite AI for agriculture and crop monitoring at scale.
 - 🗺️ **Founder of [Hardcastle GIS](https://hardcastlegis.com)** — geospatial engineering and remote-sensing solutions.
-- 🛰️ Working at the intersection of **remote sensing, deep learning and agriculture**: crop-type maps, disease advisory, palm-tree and CAFO detection from imagery.
+- 🛰️ Working at the intersection of **remote sensing, deep learning and agriculture**.
 - 📍 Based in **New York, NY** 🇺🇸
 - 💬 Motto: `Like Coding < Love Management`
 
@@ -76,7 +77,7 @@
 |---|---|
 | 🛰️ **Map My Crop** | Satellite-driven crop monitoring, yield & stress analytics for farms, agri-input companies and lenders |
 | 🗺️ **Hardcastle GIS** | GIS consulting, remote-sensing pipelines and geospatial data products |
-| 🤖 **Deep-learning on imagery** | Crop-type classification, farm-boundary extraction, disease advisory and object detection from aerial/satellite data |
+| 🤖 **AI on satellite imagery** | Deep-learning models that turn satellite and aerial data into decisions for farmers, agri-businesses and lenders |
 
 ---
 
@@ -85,6 +86,7 @@
 ### 🤝 Let's connect
 
 [![Website](https://img.shields.io/badge/Website-mapmycrop.com-1a7f37?style=flat-square&logo=googlechrome&logoColor=white)](https://mapmycrop.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-swapnil--neil--jadhav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-neil-jadhav/)
 [![X](https://img.shields.io/badge/X-@enrik431-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/enrik431)
 [![GitHub](https://img.shields.io/badge/GitHub-iswapnilj-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iswapnilj)
 
